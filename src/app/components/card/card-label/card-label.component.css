@@ -1,10 +1,10 @@
-.card-label__container {
+.CardLabel{
   position: absolute;
   bottom: 90px;
   right: 0;
 }
 
-.card-label__content {
+.CardLabelContent{
   display: flex;
   justify-content: center;
   align-items: center;

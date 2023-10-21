@@ -1,4 +1,4 @@
-.card-pricing__container {
+.CardPricing {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -12,20 +12,20 @@
   padding: 10px;
 }
 
-.card-pricing__title {
+.CardPricingTitle {
   margin-bottom: 3px;
 }
 
-.card-pricing__value {
+.CardPricingValue {
   display: flex;
   justify-content: space-between;
 }
 
-.card-pricing__value__console {
+.CardPricingMoney {
   display: flex;
 }
 
-.card-pricing__value__console > span {
+.GamePricing > span {
   font-weight: bolder;
   color: aqua;
   margin-right: 10px;

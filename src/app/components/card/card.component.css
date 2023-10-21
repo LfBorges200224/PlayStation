@@ -1,4 +1,4 @@
-.card__container {
+.CardContainer {
   position: relative;
   border: 3px solid #3e4357;
   border-radius: 10px;
@@ -9,12 +9,12 @@
   margin-top: 10px;
 }
 
-.card__img {
+.CardImg {
   min-width: 100%;
   min-height: 100%;
   transition: transform 0.8s;
 }
 
-.card__img:hover {
+.CardImg:hover {
   transform: scale(1.1);
 }
